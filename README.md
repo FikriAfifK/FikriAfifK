@@ -21,11 +21,12 @@ I am eager to contribute as a **Data Analyst**, turning raw data into actionable
 ---
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FikriAfifK&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FikriAfifK&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FikriAfifK&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikriAfifK&layout=compact&theme=radical" height="150" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fikri-afif-khairudin)  
