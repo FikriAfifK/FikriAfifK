@@ -1,22 +1,14 @@
-# Hi there 👋, I'm Fikri Afif Khairudin
-
-🎓 Informatics Graduate | 📊 Aspiring Data Analyst  
+# Hi there! 👋  
+I'm Fikri Afif Khairudin — Informatics graduate from UPN "Veteran" Yogyakarta with a passion for Data and Machine Learning. During my academic journey and internships, I’ve worked on projects involving **data preprocessing, sentiment analysis, and computer vision**, where I applied machine learning models and built supporting applications for visualization and evaluation. I also joined **Bangkit Academy by Google, Tokopedia, Gojek, & Traveloka**, where I deepened my skills in **machine learning** and learned how to collaborate in real-world projects.
 
 ---
 
-## 👨‍💻 About Me
-I am an Informatics graduate with a strong interest in **data and analytics**.  
-During my academic journey and internships, I have gained experience in **data preprocessing, machine learning, and model evaluation**.  
-
-I am proficient in:
-- 🐍 Python  
-- 🗄️ SQL  
-- 📊 Excel  
-- 📈 Data Visualization (Power BI)  
-
-My background in machine learning helps me approach data problems not only from a technical perspective but also with curiosity to uncover meaningful insights.  
-
-I am eager to contribute as a **Data Analyst**, turning raw data into actionable insights that support decision-making and business growth.  
+## 📚 About Me  
+🎓 Graduated in Informatics from UPN "Veteran" Yogyakarta.  
+🤖 Passionate about **Data Analytics and Machine Learning**.  
+💼 Experienced as an **AI Engineer Intern** at *PT Global Data Inspirasi (DataIns)*, focusing on computer vision projects such as object detection.  
+📊 Skilled in **Python, SQL, Excel**, with experience in **data visualization** tools like Power BI.  
+💡 Always eager to explore how data can be leveraged to solve real-world problems.  
 
 ---
 
@@ -29,4 +21,4 @@ I am eager to contribute as a **Data Analyst**, turning raw data into actionable
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fikri-afif-khairudin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fikri-afif-khairudin)
