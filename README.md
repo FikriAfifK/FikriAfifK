@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Fikri Afif Khairudin
 
-<!--
-**FikriAfifK/FikriAfifK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Graduate | 📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am an Informatics graduate with a strong interest in **data and analytics**.  
+During my academic journey and internships, I have gained experience in **data preprocessing, machine learning, and model evaluation**.  
+
+I am proficient in:
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Excel  
+- 📈 Data Visualization (Power BI)  
+
+My background in machine learning helps me approach data problems not only from a technical perspective but also with curiosity to uncover meaningful insights.  
+
+I am eager to contribute as a **Data Analyst**, turning raw data into actionable insights that support decision-making and business growth.  
+
+---
+
+## 📊 GitHub Stats
+![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afif123&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afif123&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
