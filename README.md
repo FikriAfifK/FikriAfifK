@@ -21,9 +21,9 @@ I am eager to contribute as a **Data Analyst**, turning raw data into actionable
 ---
 
 ## 📊 GitHub Stats
-![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afif123&show_icons=true&theme=radical)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FikriAfifK&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afif123&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FikriAfifK&layout=compact&theme=radical)  
 
 ---
 
